@@ -18,7 +18,6 @@ figma-agent
 discord
 spotify
 goland
-steam
 powerlevel10k
 tableplus
 transmission
