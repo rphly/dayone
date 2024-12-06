@@ -8,16 +8,10 @@ node
 docker
 visual-studio-code
 telegram
-slack
-k9s
 postman
-fig
 whatsapp
-google-cloud-sdk
 figma-agent
 discord
 spotify
-goland
 powerlevel10k
-tableplus
 transmission
